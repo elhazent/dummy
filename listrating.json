@@ -19,7 +19,7 @@
                 "idpel": null,
                 "trx_name":"Pembelian Token 50.000",
                 "is_submit":false,
-                "price":51250
+                "price":51250.0
             },
             {
                 "feature":"Prabayar",
@@ -28,7 +28,7 @@
                 "idpel": null,
                 "trx_name":"Pembelian Token 50.000",
                 "is_submit":false,
-                "price":51250
+                "price":51250.0
             },
             {
                 "feature":"Pengaduan",
@@ -37,7 +37,7 @@
                 "idpel": null,
                 "trx_name":"G5425073005640",
                 "is_submit":false,
-                "price":51250
+                "price":51250.0
             },
             {
                 "feature":"Layanan SPKLU",
