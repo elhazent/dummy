@@ -1,0 +1,74 @@
+{
+    "success":true,
+    "data":{
+        "data":[
+            {
+                "feature":"Perubahan Daya",
+                "slug":"power_upgrade",
+                "timestamp": "2026-05-10T18:58:49.520Z",
+                "idpel": "123456789012",
+                "trx_name":"Permohonan Perubahan Daya",
+                "is_submit":false,
+                "price":null
+                
+            },
+            {
+                "feature":"Prabayar",
+                "slug":"token_bill",
+                "timestamp": "2026-05-10T18:40:49.520Z",
+                "idpel": null,
+                "trx_name":"Pembelian Token 50.000",
+                "is_submit":false,
+                "price":51250
+            },
+            {
+                "feature":"Prabayar",
+                "slug":"token_bill",
+                "timestamp": "2026-05-10T18:40:49.520Z",
+                "idpel": null,
+                "trx_name":"Pembelian Token 50.000",
+                "is_submit":false,
+                "price":51250
+            },
+            {
+                "feature":"Pengaduan",
+                "slug":"report",
+                "timestamp": "2026-05-10T18:40:49.520Z",
+                "idpel": null,
+                "trx_name":"G5425073005640",
+                "is_submit":false,
+                "price":51250
+            },
+            {
+                "feature":"Layanan SPKLU",
+                "slug":"spklu",
+                "timestamp": "2026-05-10T18:40:49.520Z",
+                "idpel": null,
+                "description": "CCS2 - 87.5 kW DC",
+                "trx_name":"SPKLU PLN UID JAKARTA RAYA",
+                "is_submit":false,
+                "price":null
+            },
+            {
+                "feature":"Layanan SPKLU R2",
+                "slug":"splu_gen2",
+                "timestamp": "2026-05-10T18:40:49.520Z",
+                "idpel": null,
+                "description": "Stop Kontak 1",
+                "trx_name":"SPKLU R2 Kuningan",
+                "is_submit":false,
+                "price":null
+            },
+            {
+                "feature":"Layanan SPKLU R2",
+                "slug":"splu_gen2",
+                "timestamp": "2026-05-10T18:40:49.520Z",
+                "idpel": null,
+                "description": "Stop Kontak 1",
+                "trx_name":"SPKLU R2 Kuningan",
+                "is_submit":true,
+                "price":null
+            }
+        ]
+    }
+}
